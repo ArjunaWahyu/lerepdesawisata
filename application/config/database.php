@@ -67,12 +67,12 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	// 'username' => 'root',
-	// 'password' => '',
-	// 'database' => 'budaya',
-	'username' => 'lery5269_root',
-	'password' => '234indonesia',
+	'username' => 'root',
+	'password' => '',
 	'database' => 'lery5269_budaya',
+	// 'username' => 'lery5269_root',
+	// 'password' => '234indonesia',
+	// 'database' => 'lery5269_budaya',
 
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
