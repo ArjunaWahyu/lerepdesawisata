@@ -1,0 +1,143 @@
+Driver Easy TXT Report
+-------------------------------------------------------------------------
+
+
+Binaries
+-------------------------------------------------------------------------
+
+
+Driver Easy version			v5.7.0
+
+
+Overview
+-------------------------------------------------------------------------
+
+
+	Machine				Custom Computer
+	Operating System		Microsoft Windows 11 Pro (64-bit) 
+	Memory				8 GB
+	Processor			Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+	Motherboard			ASRock - H81M-HDS
+	Video Cards			AMD Radeon HD 6570
+	Monitors			SMS16A100  
+	Hard Disk			TEAM T2535T120G (120.0 GB)
+	Network Card			Realtek PCIe GbE Family Controller
+
+
+
+
+CPU
+-------------------------------------------------------------------------
+
+
+Processor
+	Name				Intel Core i3 4150
+	Code Name			Haswell
+	TDP				54 W
+	Package				Socket 1150 LGA
+	Technology			22 nm
+	Core Voltage			0.8 V
+	Specification			Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz
+	Family				6
+	Model				--
+	Stepping			--
+	Ext. Family			--
+	Ext. Model			--
+	Revision			C0
+	Instructions			MMX , SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, x86-64, NX, VMX, AES, AVX, AVX2, FMA3
+
+
+Clocks
+	Core Speed			799.5 MHz
+	Multiplier			x 8
+	Bus Speed			99.9 MHz
+	QPILink				--
+
+
+Cache
+	L1 Data				2 x 32 KBytes
+	L1 Inst				2 x 32 KBytes
+	Level 2				2 x 256 KBytes
+	Level3				3072 KBytes
+
+
+
+
+Motherboard
+-------------------------------------------------------------------------
+
+
+Motherboard
+	Manufacturer			ASRock
+	Model				H81M-HDS		--
+	Chipset				Intel		Haswell
+	Revision			06
+	Southbrige			Intel		H81
+	Revision			C2
+	LPCIO				--
+
+
+BIOS
+	Core Speed			American Megatrends Inc.
+	Version				P2.10
+	Date				07/23/2015
+
+
+Graphic Interface
+	Version				--
+	Transfer Rate			--
+	Max. Supported			--
+
+
+
+
+Memory
+-------------------------------------------------------------------------
+
+
+General
+	Type				DDR3
+	Size				8192 MBytes
+	Channel#			--
+	DC Model			--
+	NB Frequency			--
+
+
+Timings
+	DRAM Frequency			666.3 MHz
+	FSB:DRAM			--
+	CAS# Latency(CL)		9 clocks
+	RAS# to CAS# Delay(tRCD)	9 clocks
+	RAS# Precharge(tRP)		9 clocks
+	Cycle Time(rRAS)		24 clocks
+	Bank Cycle Time(tRC)		--
+	Command Rate(CR)		1 clocks
+
+
+
+
+Graphics
+-------------------------------------------------------------------------
+
+
+GPU
+	Name				AMD Radeon HD 6570
+	Code Name			--
+	Technology			--
+	Revision			--
+
+
+Clocks
+	Core				100 MHz
+	Shader				--
+	Memory				150 MHz
+
+
+Memory
+	Size				2048 MBytes
+	Type				--
+	Bus Width			--
+
+
+
+
